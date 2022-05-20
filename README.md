@@ -16,7 +16,7 @@
  
 <div> 
   <a href = "mailto:lucas.gonzaga@ufrpe.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-henrique-029a041a4/" target="_blank"><img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Flinkedin_174857&psig=AOvVaw1SVzhFL82d5VVz5NWIRHVP&ust=1653140534958000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKCmpMia7vcCFQAAAAAdAAAAABAE)" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lucas-henrique-029a041a4/" target="_blank"><img src="" target="_blank"></a> 
  
 
 </div>
