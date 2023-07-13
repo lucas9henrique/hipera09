@@ -15,8 +15,8 @@
   ##
  
 <div> 
-  <a href = "mailto:lucas.gonzaga@ufrpe.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-henrique-029a041a4/" target="_blank"><img src="" target="_blank"></a> 
+  <a href = "mailto:lucas.gonzaga@ufrpe.br"><img src="https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo.png" target="_blank" width="100"></a>
+  <a href="https://www.linkedin.com/in/lucas-henrique-029a041a4/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" target="_blank" width="60"></a> 
  
 
 </div>
